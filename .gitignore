@@ -1,0 +1,11 @@
+.idea
+.mypy_cache
+.vscode
+Include/
+LICENSE.txt
+Lib/
+Scripts/
+tcl/
+.mypy_cache/
+.vscode/
+credentials.py
