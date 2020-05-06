@@ -21,7 +21,7 @@ python v3.7+
 4. Navigate to the directory, already inside the directory run the commands below.
 5. With the terminal open rode or follow command `pip install -r requirements.txt`, will install all necessary dependencies
 
-This project is under the MIT license. Read morea [LICENÇA](https://github.com/Alexsandrogms/bitcoinBot/LICENSE.md) for details.
+This project is under the MIT license. Read morea [LICENÇA](https://github.com/Alexsandrogms/bitcoinBot/blob/master/LICENSE.md) for details.
 
 ---
 
